@@ -1,8 +1,8 @@
 {
-  "github_owner": "ваш-логін-github-малими-літерами",
-  "image_name": "apsik-lab04",
+  "github_owner": "bmalynchak11-dev",
+  "image_name": "L_w_4_APSIK_v15",
   "web_port": 8000,
   "host_port": 8080,
-  "db_name": "labdb",
-  "db_user": "labuser"
+  "db_name": "appdb",
+  "db_user": "appuser"
 }
