@@ -21,7 +21,7 @@ services:
   web:
     build:
       context: .
-    image: ghcr.io/<bmalynchak11-dev>/apsik-lab04:latest
+    image: ghcr.io/bmalynchak11-dev/l_4_apsik_v15:latest
     restart: unless-stopped
     ports:
       - "127.0.0.1:8080:8000"

@@ -46,7 +46,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v6
         with:
-          images: ghcr.io/bmalynchak11-dev/L_w_4_APSIK_v15
+          images: ghcr.io/bmalynchak11-dev/l_4_apsik_v15
           tags: |
             type=ref,event=branch
             type=sha
